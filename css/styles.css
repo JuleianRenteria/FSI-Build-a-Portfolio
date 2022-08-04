@@ -1,0 +1,16 @@
+body {
+    background-color:rgb(93, 93, 235);
+}
+
+h1 {
+    color:yellow;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main-section {
+    border: 5px dashed;
+}
